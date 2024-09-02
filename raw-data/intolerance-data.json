@@ -1,0 +1,1967 @@
+[
+  {
+    "level": 1,
+    "type": "Acidity Regulator",
+    "name": "E 330 Citric acid"
+  },
+  {
+    "level": 2,
+    "type": "Acidity Regulator",
+    "name": "E 333 Monocalcium Citrate"
+  },
+  {
+    "level": 3,
+    "type": "Acidity Regulator",
+    "name": "E 334 Tartaric acid"
+  },
+  {
+    "level": 1,
+    "type": "Acidity Regulator",
+    "name": "E 336 Monopotassium Tartrate"
+  },
+  {
+    "level": 1,
+    "type": "Acidity Regulator",
+    "name": "E 337 Sodium Potassium Tartrate"
+  },
+  {
+    "level": 3,
+    "type": "Acidity Regulator",
+    "name": "E 341 Monocalcium Phosphate"
+  },
+  {
+    "level": 2,
+    "type": "Acidity Regulator",
+    "name": "E 350 Sodium Malate"
+  },
+  {
+    "level": 1,
+    "type": "Acidity Regulator",
+    "name": "E 353 Metatartaric acid"
+  },
+  {
+    "level": 2,
+    "type": "Acidity Regulator",
+    "name": "E 354 Calcium Tartrate"
+  },
+  {
+    "level": 1,
+    "type": "Acidity Regulator",
+    "name": "E 356 Sodium Adipate"
+  },
+  {
+    "level": 2,
+    "type": "Acidity Regulator",
+    "name": "E 357 Potassium Adipate"
+  },
+  {
+    "level": 3,
+    "type": "Acidity Regulator",
+    "name": "E 503 Ammonium Carbonate"
+  },
+  {
+    "level": 2,
+    "type": "Acidity Regulator",
+    "name": "E 509 Calcium Chloride"
+  },
+  {
+    "level": 3,
+    "type": "Acidity Regulator",
+    "name": "E 513 Sulphuric acid"
+  },
+  {
+    "level": 3,
+    "type": "Acidity Regulator",
+    "name": "E 521 Aluminium Sodium Sulphate"
+  },
+  {
+    "level": 3,
+    "type": "Acidity Regulator",
+    "name": "E 530 Magnesium Oxide"
+  },
+  {
+    "level": 1,
+    "type": "Acidity Regulator",
+    "name": "E 577 Potassium Gluconate"
+  },
+  {
+    "level": 3,
+    "type": "Acidity Regulator",
+    "name": "E 585 Iron II-Lactate"
+  },
+  {
+    "level": 1,
+    "type": "Anti-caking Agent",
+    "name": "E 552 Calcium Silicate"
+  },
+  {
+    "level": 3,
+    "type": "Anti-caking Agent",
+    "name": "E 556 Aluminium Calcium Silicate"
+  },
+  {
+    "level": 3,
+    "type": "Anti-caking Agent",
+    "name": "E 558 Bentonite"
+  },
+  {
+    "level": 2,
+    "type": "Anti-caking Agent",
+    "name": "E 570 Stearic Acid"
+  },
+  {
+    "level": 3,
+    "type": "Antioxidant",
+    "name": "E 300 Ascorbic Acid (Vitamin C)"
+  },
+  {
+    "level": 2,
+    "type": "Antioxidant",
+    "name": "E 301 Sodium L-Ascorbate"
+  },
+  {
+    "level": 3,
+    "type": "Antioxidant",
+    "name": "E 302 Calcium L-Ascorbate"
+  },
+  {
+    "level": 3,
+    "type": "Antioxidant",
+    "name": "E 304 Ascorbyl Palmitate / Ascorbyl Stearate"
+  },
+  {
+    "level": 3,
+    "type": "Antioxidant",
+    "name": "E 309 Synthetic Delta-Tocopherol"
+  },
+  {
+    "level": 1,
+    "type": "Antioxidant",
+    "name": "E 310 Propyl Gallate"
+  },
+  {
+    "level": 2,
+    "type": "Antioxidant",
+    "name": "E 312 Dodecyl Gallate"
+  },
+  {
+    "level": 1,
+    "type": "Antioxidant",
+    "name": "E 315 Isoascorbic Acid"
+  },
+  {
+    "level": 1,
+    "type": "Antioxidant",
+    "name": "E 320 Butylated Hydroxyanisole (BHA)"
+  },
+  {
+    "level": 2,
+    "type": "Antioxidant",
+    "name": "E 321 Butylated Hydroxytoluene (BHT)"
+  },
+  {
+    "level": 1,
+    "type": "Beverage",
+    "name": "Apple Juice"
+  },
+  {
+    "level": 3,
+    "type": "Beverage",
+    "name": "Beer"
+  },
+  {
+    "level": 2,
+    "type": "Beverage",
+    "name": "Coffee (black)"
+  },
+  {
+    "level": 2,
+    "type": "Beverage",
+    "name": "Cranberry Juice"
+  },
+  {
+    "level": 2,
+    "type": "Beverage",
+    "name": "Milk (almond)"
+  },
+  {
+    "level": 3,
+    "type": "Beverage",
+    "name": "Milk (cashew)"
+  },
+  {
+    "level": 1,
+    "type": "Beverage",
+    "name": "Milk (hemp)"
+  },
+  {
+    "level": 2,
+    "type": "Beverage",
+    "name": "Milk (oat)"
+  },
+  {
+    "level": 3,
+    "type": "Beverage",
+    "name": "Orange Juice"
+  },
+  {
+    "level": 3,
+    "type": "Beverage",
+    "name": "Pomegranate Juice"
+  },
+  {
+    "level": 1,
+    "type": "Beverage",
+    "name": "Tea (black)"
+  },
+  {
+    "level": 1,
+    "type": "Beverage",
+    "name": "Tea (chamomile)"
+  },
+  {
+    "level": 1,
+    "type": "Beverage",
+    "name": "Tea (green)"
+  },
+  {
+    "level": 1,
+    "type": "Beverage",
+    "name": "Tea (jasmine)"
+  },
+  {
+    "level": 3,
+    "type": "Beverage",
+    "name": "Tea (oolong)"
+  },
+  {
+    "level": 1,
+    "type": "Beverage",
+    "name": "Tea (rooibos)"
+  },
+  {
+    "level": 2,
+    "type": "Beverage",
+    "name": "Tequila"
+  },
+  {
+    "level": 2,
+    "type": "Beverage",
+    "name": "Vodka"
+  },
+  {
+    "level": 2,
+    "type": "Beverage",
+    "name": "Whiskey"
+  },
+  {
+    "level": 3,
+    "type": "Beverage",
+    "name": "Wine (red)"
+  },
+  {
+    "level": 2,
+    "type": "Beverage",
+    "name": "Wine (white)"
+  },
+  {
+    "level": 2,
+    "type": "Bread Enhancer",
+    "name": "E 927 Carbanide"
+  },
+  {
+    "level": 3,
+    "type": "Coagulating Agent",
+    "name": "E 520 Aluminium Sulphate"
+  },
+  {
+    "level": 2,
+    "type": "Coating",
+    "name": "E 902 Candelilla Wax"
+  },
+  {
+    "level": 1,
+    "type": "Coating",
+    "name": "E 904 Shellac"
+  },
+  {
+    "level": 2,
+    "type": "Coating",
+    "name": "E 912 Montanic Acid Ester"
+  },
+  {
+    "level": 1,
+    "type": "Dairy",
+    "name": "Buttermilk"
+  },
+  {
+    "level": 3,
+    "type": "Dairy",
+    "name": "Cheese (brie)"
+  },
+  {
+    "level": 1,
+    "type": "Dairy",
+    "name": "Cheese (cheddar)"
+  },
+  {
+    "level": 1,
+    "type": "Dairy",
+    "name": "Cheese (colby)"
+  },
+  {
+    "level": 3,
+    "type": "Dairy",
+    "name": "Cheese (feta)"
+  },
+  {
+    "level": 1,
+    "type": "Dairy",
+    "name": "Cheese (goat)"
+  },
+  {
+    "level": 3,
+    "type": "Dairy",
+    "name": "Cheese (havarti)"
+  },
+  {
+    "level": 1,
+    "type": "Dairy",
+    "name": "Cheese (mozzarella)"
+  },
+  {
+    "level": 1,
+    "type": "Dairy",
+    "name": "Cheese (muenster)"
+  },
+  {
+    "level": 2,
+    "type": "Dairy",
+    "name": "Cheese (pepper jack)"
+  },
+  {
+    "level": 3,
+    "type": "Dairy",
+    "name": "Cheese (provolone)"
+  },
+  {
+    "level": 1,
+    "type": "Dairy",
+    "name": "Cheese (ricotta)"
+  },
+  {
+    "level": 3,
+    "type": "Dairy",
+    "name": "Cheese (swiss)"
+  },
+  {
+    "level": 2,
+    "type": "Dairy",
+    "name": "Cream"
+  },
+  {
+    "level": 1,
+    "type": "Dairy",
+    "name": "Kefir"
+  },
+  {
+    "level": 3,
+    "type": "Dairy",
+    "name": "Milk (evaporated)"
+  },
+  {
+    "level": 3,
+    "type": "Dairy",
+    "name": "Milk (sheep)"
+  },
+  {
+    "level": 1,
+    "type": "Dairy",
+    "name": "Sour Cream"
+  },
+  {
+    "level": 1,
+    "type": "Dairy",
+    "name": "Yogurt (plain Greek)"
+  },
+  {
+    "level": 2,
+    "type": "Emulsifier",
+    "name": "E 434 Polyoxyethylene Sorbitan Monopalmitate"
+  },
+  {
+    "level": 2,
+    "type": "Emulsifier",
+    "name": "E 442 Ammonium Phosphatides"
+  },
+  {
+    "level": 1,
+    "type": "Emulsifier",
+    "name": "E 444 Sucrose Acetate Isobutyrate"
+  },
+  {
+    "level": 3,
+    "type": "Emulsifier",
+    "name": "E 450 Diphosphate, Phosphate"
+  },
+  {
+    "level": 3,
+    "type": "Emulsifier",
+    "name": "E 451 Triphosphate, Phosphate"
+  },
+  {
+    "level": 3,
+    "type": "Emulsifier",
+    "name": "E 452 Polyphosphate"
+  },
+  {
+    "level": 3,
+    "type": "Emulsifier",
+    "name": "E 470 b Magnesium Salts of Edible Fatty Acids"
+  },
+  {
+    "level": 1,
+    "type": "Emulsifier",
+    "name": "E 471 Mono- and Diglyceride"
+  },
+  {
+    "level": 3,
+    "type": "Emulsifier",
+    "name": "E 472 a Acetic Acid Esters"
+  },
+  {
+    "level": 1,
+    "type": "Emulsifier",
+    "name": "E 472 b Lactic Acid Esters"
+  },
+  {
+    "level": 1,
+    "type": "Emulsifier",
+    "name": "E 471 d Tartaric Acid Esters"
+  },
+  {
+    "level": 1,
+    "type": "Emulsifier",
+    "name": "E 474 Sucroglycerides"
+  },
+  {
+    "level": 1,
+    "type": "Emulsifier",
+    "name": "E 476 Polyglycerol Polyricinoleate"
+  },
+  {
+    "level": 2,
+    "type": "Emulsifier",
+    "name": "E 477 Propane"
+  },
+  {
+    "level": 3,
+    "type": "Emulsifier",
+    "name": "E 479 Thermo-oxidised Soya Oil"
+  },
+  {
+    "level": 3,
+    "type": "Emulsifier",
+    "name": "E 481 Sodium Stearoyl"
+  },
+  {
+    "level": 1,
+    "type": "Emulsifier",
+    "name": "E 482 Calcium Stearoyl"
+  },
+  {
+    "level": 1,
+    "type": "Emulsifier",
+    "name": "E 483 Stearyl Tartrate"
+  },
+  {
+    "level": 2,
+    "type": "Emulsifier",
+    "name": "E 493 Sorbitan Monolaurate"
+  },
+  {
+    "level": 1,
+    "type": "Emulsifier",
+    "name": "E 495 Sorbitan Monopalmitate"
+  },
+  {
+    "level": 1,
+    "type": "Emulsifier",
+    "name": "E 541 Sodium Aluminium Phosphate"
+  },
+  {
+    "level": 2,
+    "type": "Fat",
+    "name": "Avocado Oil"
+  },
+  {
+    "level": 3,
+    "type": "Fat",
+    "name": "Butter"
+  },
+  {
+    "level": 2,
+    "type": "Fat",
+    "name": "Canola Oil"
+  },
+  {
+    "level": 1,
+    "type": "Fat",
+    "name": "Cod Liver Oil"
+  },
+  {
+    "level": 2,
+    "type": "Fat",
+    "name": "Cottonseed Oil"
+  },
+  {
+    "level": 3,
+    "type": "Fat",
+    "name": "Flaxseed Oil"
+  },
+  {
+    "level": 1,
+    "type": "Fat",
+    "name": "Hemp Seed Oil"
+  },
+  {
+    "level": 1,
+    "type": "Fat",
+    "name": "Olive Oil"
+  },
+  {
+    "level": 1,
+    "type": "Fat",
+    "name": "Palm Kernel Oil"
+  },
+  {
+    "level": 3,
+    "type": "Fat",
+    "name": "Peanut Oil"
+  },
+  {
+    "level": 1,
+    "type": "Fat",
+    "name": "Pumpkin Seed Oil"
+  },
+  {
+    "level": 2,
+    "type": "Fat",
+    "name": "Sesame Oil"
+  },
+  {
+    "level": 2,
+    "type": "Fat",
+    "name": "Soybean Oil"
+  },
+  {
+    "level": 1,
+    "type": "Fat",
+    "name": "Sunflower Oil"
+  },
+  {
+    "level": 3,
+    "type": "Fat",
+    "name": "Vegetable Oil"
+  },
+  {
+    "level": 2,
+    "type": "Flavor Enhancer",
+    "name": "E 620 Glutamic Acid"
+  },
+  {
+    "level": 3,
+    "type": "Flavor Enhancer",
+    "name": "E 621 Monosodium Glutamate"
+  },
+  {
+    "level": 1,
+    "type": "Flavor Enhancer",
+    "name": "E 623 Calcium Glutamate"
+  },
+  {
+    "level": 2,
+    "type": "Flavor Enhancer",
+    "name": "E 625 Magnesium Diglutamate"
+  },
+  {
+    "level": 3,
+    "type": "Flavor Enhancer",
+    "name": "E 626 Guanylic Acid"
+  },
+  {
+    "level": 2,
+    "type": "Flavor Enhancer",
+    "name": "E 628 Dipotassium Guanylate"
+  },
+  {
+    "level": 1,
+    "type": "Flavor Enhancer",
+    "name": "E 629 Calcium Guanylate"
+  },
+  {
+    "level": 1,
+    "type": "Flavor Enhancer",
+    "name": "E 631 Disodium Inosinate"
+  },
+  {
+    "level": 3,
+    "type": "Flavor Enhancer",
+    "name": "E 632 Dipotassium Inosinate"
+  },
+  {
+    "level": 3,
+    "type": "Flavor Enhancer",
+    "name": "E 633 Dicalcium Inosinate"
+  },
+  {
+    "level": 3,
+    "type": "Flavor Enhancer",
+    "name": "E 634 Calcium 5-Ribonucleotide"
+  },
+  {
+    "level": 1,
+    "type": "Flavor Enhancer",
+    "name": "E 640 Glycine and its Sodium Salts"
+  },
+  {
+    "level": 3,
+    "type": "Food Dye",
+    "name": "E 101 Riboflavin"
+  },
+  {
+    "level": 1,
+    "type": "Food Dye",
+    "name": "E 102 Tartrazine"
+  },
+  {
+    "level": 1,
+    "type": "Food Dye",
+    "name": "E 110 Sunset Yellow FCF"
+  },
+  {
+    "level": 2,
+    "type": "Food Dye",
+    "name": "E 122 Carmoisine"
+  },
+  {
+    "level": 2,
+    "type": "Food Dye",
+    "name": "E 123 Amaranth"
+  },
+  {
+    "level": 3,
+    "type": "Food Dye",
+    "name": "E 124 Ponceau 4R"
+  },
+  {
+    "level": 3,
+    "type": "Food Dye",
+    "name": "E 127 Erythrosine"
+  },
+  {
+    "level": 3,
+    "type": "Food Dye",
+    "name": "E 128 Rot 2 G"
+  },
+  {
+    "level": 1,
+    "type": "Food Dye",
+    "name": "E 129 Allura Red AC"
+  },
+  {
+    "level": 1,
+    "type": "Food Dye",
+    "name": "E 131 Patent Blue V"
+  },
+  {
+    "level": 2,
+    "type": "Food Dye",
+    "name": "E 133 Brilliant Blue FCF"
+  },
+  {
+    "level": 1,
+    "type": "Food Dye",
+    "name": "E 141 Chlorophylls (CU Complexes)"
+  },
+  {
+    "level": 2,
+    "type": "Food Dye",
+    "name": "E 150 a Caramel"
+  },
+  {
+    "level": 2,
+    "type": "Food Dye",
+    "name": "E 150 b Sulphite Lye Caramel"
+  },
+  {
+    "level": 2,
+    "type": "Food Dye",
+    "name": "E 153 Vegetable Carbon"
+  },
+  {
+    "level": 1,
+    "type": "Food Dye",
+    "name": "E 154 Brown FK"
+  },
+  {
+    "level": 1,
+    "type": "Food Dye",
+    "name": "E 160 a Carotene"
+  },
+  {
+    "level": 1,
+    "type": "Food Dye",
+    "name": "E 161 g Canthaxanthin"
+  },
+  {
+    "level": 3,
+    "type": "Food Dye",
+    "name": "E 162 Beetroot Red (betanin)"
+  },
+  {
+    "level": 2,
+    "type": "Food Dye",
+    "name": "E 170 Calcium Carbonate"
+  },
+  {
+    "level": 2,
+    "type": "Food Dye",
+    "name": "E 171 Titanium Dioxide"
+  },
+  {
+    "level": 3,
+    "type": "Food Dye",
+    "name": "E 173 Aluminium"
+  },
+  {
+    "level": 3,
+    "type": "Food Dye",
+    "name": "E 174 Silver"
+  },
+  {
+    "level": 3,
+    "type": "Food Dye",
+    "name": "E 180 Lithol Rubine"
+  },
+  {
+    "level": 2,
+    "type": "Fruit",
+    "name": "Apple (gala)"
+  },
+  {
+    "level": 1,
+    "type": "Fruit",
+    "name": "Apple (granny smith)"
+  },
+  {
+    "level": 2,
+    "type": "Fruit",
+    "name": "Apple (mcintosh)"
+  },
+  {
+    "level": 1,
+    "type": "Fruit",
+    "name": "Apricots"
+  },
+  {
+    "level": 2,
+    "type": "Fruit",
+    "name": "Avocado"
+  },
+  {
+    "level": 2,
+    "type": "Fruit",
+    "name": "Bananas"
+  },
+  {
+    "level": 2,
+    "type": "Fruit",
+    "name": "Blackberries"
+  },
+  {
+    "level": 3,
+    "type": "Fruit",
+    "name": "Blueberries"
+  },
+  {
+    "level": 3,
+    "type": "Fruit",
+    "name": "Cantaloupe"
+  },
+  {
+    "level": 2,
+    "type": "Fruit",
+    "name": "Carambola"
+  },
+  {
+    "level": 1,
+    "type": "Fruit",
+    "name": "Cherries"
+  },
+  {
+    "level": 3,
+    "type": "Fruit",
+    "name": "Figs"
+  },
+  {
+    "level": 2,
+    "type": "Fruit",
+    "name": "Goji Berries"
+  },
+  {
+    "level": 1,
+    "type": "Fruit",
+    "name": "Grapefruit (white)"
+  },
+  {
+    "level": 1,
+    "type": "Fruit",
+    "name": "Grapes (red)"
+  },
+  {
+    "level": 3,
+    "type": "Fruit",
+    "name": "Guava"
+  },
+  {
+    "level": 2,
+    "type": "Fruit",
+    "name": "Hondeydew Melon"
+  },
+  {
+    "level": 2,
+    "type": "Fruit",
+    "name": "Kiwis"
+  },
+  {
+    "level": 3,
+    "type": "Fruit",
+    "name": "Lime"
+  },
+  {
+    "level": 3,
+    "type": "Fruit",
+    "name": "Mango"
+  },
+  {
+    "level": 3,
+    "type": "Fruit",
+    "name": "Olives (green)"
+  },
+  {
+    "level": 1,
+    "type": "Fruit",
+    "name": "Oranges (clementine)"
+  },
+  {
+    "level": 3,
+    "type": "Fruit",
+    "name": "Oranges (navel)"
+  },
+  {
+    "level": 2,
+    "type": "Fruit",
+    "name": "Oranges (valencia)"
+  },
+  {
+    "level": 3,
+    "type": "Fruit",
+    "name": "Papaya"
+  },
+  {
+    "level": 2,
+    "type": "Fruit",
+    "name": "Peaches"
+  },
+  {
+    "level": 3,
+    "type": "Fruit",
+    "name": "Pears"
+  },
+  {
+    "level": 3,
+    "type": "Fruit",
+    "name": "Plaintain"
+  },
+  {
+    "level": 1,
+    "type": "Fruit",
+    "name": "Plums"
+  },
+  {
+    "level": 1,
+    "type": "Fruit",
+    "name": "Pomegranates"
+  },
+  {
+    "level": 1,
+    "type": "Fruit",
+    "name": "Raisins"
+  },
+  {
+    "level": 2,
+    "type": "Fruit",
+    "name": "Raspberries"
+  },
+  {
+    "level": 1,
+    "type": "Fruit",
+    "name": "Strawberries"
+  },
+  {
+    "level": 1,
+    "type": "Fruit",
+    "name": "Tomatillo"
+  },
+  {
+    "level": 3,
+    "type": "Fruit",
+    "name": "Tomatoes (cooked)"
+  },
+  {
+    "level": 1,
+    "type": "Fruit",
+    "name": "Watermelons"
+  },
+  {
+    "level": 2,
+    "type": "Grain",
+    "name": "Barley"
+  },
+  {
+    "level": 1,
+    "type": "Grain",
+    "name": "Buckwheat"
+  },
+  {
+    "level": 1,
+    "type": "Grain",
+    "name": "Bulgur Wheat"
+  },
+  {
+    "level": 1,
+    "type": "Grain",
+    "name": "Cassava Flour"
+  },
+  {
+    "level": 2,
+    "type": "Grain",
+    "name": "Corn Flour (maize)"
+  },
+  {
+    "level": 2,
+    "type": "Grain",
+    "name": "Couscous"
+  },
+  {
+    "level": 3,
+    "type": "Grain",
+    "name": "Farro"
+  },
+  {
+    "level": 2,
+    "type": "Grain",
+    "name": "Flaxseed"
+  },
+  {
+    "level": 3,
+    "type": "Grain",
+    "name": "Freekeh"
+  },
+  {
+    "level": 3,
+    "type": "Grain",
+    "name": "Millet"
+  },
+  {
+    "level": 1,
+    "type": "Grain",
+    "name": "Rice (brown)"
+  },
+  {
+    "level": 1,
+    "type": "Grain",
+    "name": "Rice (white)"
+  },
+  {
+    "level": 3,
+    "type": "Grain",
+    "name": "Rice (wild)"
+  },
+  {
+    "level": 1,
+    "type": "Grain",
+    "name": "Rye"
+  },
+  {
+    "level": 1,
+    "type": "Grain",
+    "name": "Sorghum"
+  },
+  {
+    "level": 1,
+    "type": "Grain",
+    "name": "Spelt"
+  },
+  {
+    "level": 1,
+    "type": "Grain",
+    "name": "Triticale"
+  },
+  {
+    "level": 2,
+    "type": "Grain",
+    "name": "Wheat"
+  },
+  {
+    "level": 1,
+    "type": "Grain",
+    "name": "Wheat Berry"
+  },
+  {
+    "level": 2,
+    "type": "Misc",
+    "name": "Carob"
+  },
+  {
+    "level": 3,
+    "type": "Misc",
+    "name": "Chlorella"
+  },
+  {
+    "level": 1,
+    "type": "Misc",
+    "name": "Cholorophyll"
+  },
+  {
+    "level": 2,
+    "type": "Misc",
+    "name": "Chocolate (white)"
+  },
+  {
+    "level": 2,
+    "type": "Misc",
+    "name": "Gelatin"
+  },
+  {
+    "level": 2,
+    "type": "Misc",
+    "name": "Kelp"
+  },
+  {
+    "level": 3,
+    "type": "Misc",
+    "name": "Oyster Sauce"
+  },
+  {
+    "level": 3,
+    "type": "Misc",
+    "name": "Soy Sauce"
+  },
+  {
+    "level": 2,
+    "type": "Misc",
+    "name": "Tahini"
+  },
+  {
+    "level": 3,
+    "type": "Misc",
+    "name": "Tapioca"
+  },
+  {
+    "level": 3,
+    "type": "Misc",
+    "name": "Vinegar (apple cider)"
+  },
+  {
+    "level": 1,
+    "type": "Misc",
+    "name": "Vinegar (clear)"
+  },
+  {
+    "level": 1,
+    "type": "Misc",
+    "name": "Vinegar (malt)"
+  },
+  {
+    "level": 1,
+    "type": "Modified Starch",
+    "name": "E 1404 Oxidierte Starch"
+  },
+  {
+    "level": 3,
+    "type": "Modified Starch",
+    "name": "E 1410 Monostarch Phosphate"
+  },
+  {
+    "level": 2,
+    "type": "Modified Starch",
+    "name": "E 1412 Di-starch Phosphate"
+  },
+  {
+    "level": 3,
+    "type": "Modified Starch",
+    "name": "E 1413 Phosphated Di-starch Phosphate"
+  },
+  {
+    "level": 2,
+    "type": "Modified Starch",
+    "name": "E 1414 Acetylated Di-starch Phosphate"
+  },
+  {
+    "level": 2,
+    "type": "Modified Starch",
+    "name": "E 1420 Acetylised Starch"
+  },
+  {
+    "level": 3,
+    "type": "Nuts",
+    "name": "Almond"
+  },
+  {
+    "level": 2,
+    "type": "Nuts",
+    "name": "Brazil Nuts"
+  },
+  {
+    "level": 3,
+    "type": "Nuts",
+    "name": "Chestnuts"
+  },
+  {
+    "level": 3,
+    "type": "Nuts",
+    "name": "Hickory"
+  },
+  {
+    "level": 1,
+    "type": "Nuts",
+    "name": "Macadamia Nuts"
+  },
+  {
+    "level": 1,
+    "type": "Nuts",
+    "name": "Peanut Butter"
+  },
+  {
+    "level": 2,
+    "type": "Nuts",
+    "name": "Peanuts"
+  },
+  {
+    "level": 3,
+    "type": "Nuts",
+    "name": "Pecans"
+  },
+  {
+    "level": 1,
+    "type": "Nuts",
+    "name": "Pili"
+  },
+  {
+    "level": 1,
+    "type": "Nuts",
+    "name": "Poppy Seeds"
+  },
+  {
+    "level": 1,
+    "type": "Nuts",
+    "name": "Walnuts"
+  },
+  {
+    "level": 2,
+    "type": "Preservative",
+    "name": "E 1105 Lysozyme"
+  },
+  {
+    "level": 3,
+    "type": "Preservative",
+    "name": "E 200 Sorbic Acid"
+  },
+  {
+    "level": 2,
+    "type": "Preservative",
+    "name": "E 210 Benzoic Acid"
+  },
+  {
+    "level": 1,
+    "type": "Preservative",
+    "name": "E 213 Calcium Benzoate, Benzoic Acid"
+  },
+  {
+    "level": 2,
+    "type": "Preservative",
+    "name": "E 214 Ethyl-para-Hydroxybenzoate"
+  },
+  {
+    "level": 2,
+    "type": "Preservative",
+    "name": "E 219 Sodium Methyl-para-hydroxybenzoate"
+  },
+  {
+    "level": 2,
+    "type": "Preservative",
+    "name": "E 222 Sodium Hydrogen Sulphite"
+  },
+  {
+    "level": 1,
+    "type": "Preservative",
+    "name": "E 223 Sodium Metabisulphite"
+  },
+  {
+    "level": 3,
+    "type": "Preservative",
+    "name": "E 226 Calcium Sulphite"
+  },
+  {
+    "level": 1,
+    "type": "Preservative",
+    "name": "E 234 Nisin"
+  },
+  {
+    "level": 1,
+    "type": "Preservative",
+    "name": "E 239 Hexamethylene-tetramine"
+  },
+  {
+    "level": 1,
+    "type": "Preservative",
+    "name": "E 250 Sodium Nitrite"
+  },
+  {
+    "level": 2,
+    "type": "Preservative",
+    "name": "E 262 Sodium Acetate"
+  },
+  {
+    "level": 3,
+    "type": "Preservative",
+    "name": "E 280 Propionic Acid"
+  },
+  {
+    "level": 3,
+    "type": "Preservative",
+    "name": "E 283 Potassium Propionate"
+  },
+  {
+    "level": 3,
+    "type": "Preservative",
+    "name": "E 326 Potassium Lactate"
+  },
+  {
+    "level": 3,
+    "type": "Protein",
+    "name": "Beef"
+  },
+  {
+    "level": 1,
+    "type": "Protein",
+    "name": "Chicken"
+  },
+  {
+    "level": 1,
+    "type": "Protein",
+    "name": "Chicken Bone Broth"
+  },
+  {
+    "level": 3,
+    "type": "Protein",
+    "name": "Duck"
+  },
+  {
+    "level": 2,
+    "type": "Protein",
+    "name": "Egg White (duck)"
+  },
+  {
+    "level": 1,
+    "type": "Protein",
+    "name": "Egg Yolk (duck)"
+  },
+  {
+    "level": 2,
+    "type": "Protein",
+    "name": "Goat"
+  },
+  {
+    "level": 3,
+    "type": "Protein",
+    "name": "Goose"
+  },
+  {
+    "level": 2,
+    "type": "Protein",
+    "name": "Pork"
+  },
+  {
+    "level": 2,
+    "type": "Protein",
+    "name": "Quom"
+  },
+  {
+    "level": 3,
+    "type": "Protein",
+    "name": "Soy"
+  },
+  {
+    "level": 1,
+    "type": "Protein",
+    "name": "Tempeh"
+  },
+  {
+    "level": 2,
+    "type": "Protein",
+    "name": "Textured Vegetable Protein"
+  },
+  {
+    "level": 1,
+    "type": "Protein",
+    "name": "Tofu"
+  },
+  {
+    "level": 2,
+    "type": "Protein",
+    "name": "Turkey"
+  },
+  {
+    "level": 3,
+    "type": "Protein",
+    "name": "Veal"
+  },
+  {
+    "level": 2,
+    "type": "Protein",
+    "name": "Venison"
+  },
+  {
+    "level": 2,
+    "type": "Salt Substitute",
+    "name": "E 508 Potassium Chloride"
+  },
+  {
+    "level": 2,
+    "type": "Seafood",
+    "name": "Clams"
+  },
+  {
+    "level": 1,
+    "type": "Seafood",
+    "name": "Crayfish"
+  },
+  {
+    "level": 3,
+    "type": "Seafood",
+    "name": "Flounder"
+  },
+  {
+    "level": 2,
+    "type": "Seafood",
+    "name": "Grouper"
+  },
+  {
+    "level": 1,
+    "type": "Seafood",
+    "name": "Halibut"
+  },
+  {
+    "level": 3,
+    "type": "Seafood",
+    "name": "Lobster"
+  },
+  {
+    "level": 2,
+    "type": "Seafood",
+    "name": "Mahi-mahi"
+  },
+  {
+    "level": 1,
+    "type": "Seafood",
+    "name": "Mussels"
+  },
+  {
+    "level": 1,
+    "type": "Seafood",
+    "name": "Octopus"
+  },
+  {
+    "level": 2,
+    "type": "Seafood",
+    "name": "Pollock"
+  },
+  {
+    "level": 3,
+    "type": "Seafood",
+    "name": "Shrimp"
+  },
+  {
+    "level": 2,
+    "type": "Seafood",
+    "name": "Snail"
+  },
+  {
+    "level": 1,
+    "type": "Seafood",
+    "name": "Snapper"
+  },
+  {
+    "level": 1,
+    "type": "Seafood",
+    "name": "Swordfish"
+  },
+  {
+    "level": 3,
+    "type": "Seafood",
+    "name": "Tilapia"
+  },
+  {
+    "level": 1,
+    "type": "Seafood",
+    "name": "Tuna"
+  },
+  {
+    "level": 3,
+    "type": "Spice",
+    "name": "Bay Leaf"
+  },
+  {
+    "level": 2,
+    "type": "Spice",
+    "name": "Caraway"
+  },
+  {
+    "level": 2,
+    "type": "Spice",
+    "name": "Cilantro"
+  },
+  {
+    "level": 2,
+    "type": "Spice",
+    "name": "Cinnamon"
+  },
+  {
+    "level": 1,
+    "type": "Spice",
+    "name": "Cloves"
+  },
+  {
+    "level": 2,
+    "type": "Spice",
+    "name": "Cress"
+  },
+  {
+    "level": 2,
+    "type": "Spice",
+    "name": "Cumin"
+  },
+  {
+    "level": 2,
+    "type": "Spice",
+    "name": "Curry (red)"
+  },
+  {
+    "level": 3,
+    "type": "Spice",
+    "name": "Curry (yellow)"
+  },
+  {
+    "level": 2,
+    "type": "Spice",
+    "name": "Dill"
+  },
+  {
+    "level": 3,
+    "type": "Spice",
+    "name": "Mint"
+  },
+  {
+    "level": 3,
+    "type": "Spice",
+    "name": "Miso"
+  },
+  {
+    "level": 1,
+    "type": "Spice",
+    "name": "Nutmeg"
+  },
+  {
+    "level": 1,
+    "type": "Spice",
+    "name": "Oregano"
+  },
+  {
+    "level": 1,
+    "type": "Spice",
+    "name": "Paprika"
+  },
+  {
+    "level": 1,
+    "type": "Spice",
+    "name": "Rosemary"
+  },
+  {
+    "level": 3,
+    "type": "Spice",
+    "name": "Sage"
+  },
+  {
+    "level": 1,
+    "type": "Spice",
+    "name": "Thyme"
+  },
+  {
+    "level": 2,
+    "type": "Spice",
+    "name": "Turmeric"
+  },
+  {
+    "level": 2,
+    "type": "Spice",
+    "name": "Wasabi"
+  },
+  {
+    "level": 3,
+    "type": "Stablizer",
+    "name": "E 1505 Triethyl Citrate"
+  },
+  {
+    "level": 3,
+    "type": "Stablizer",
+    "name": "E 514 Sodium Sulphate"
+  },
+  {
+    "level": 2,
+    "type": "Stablizer",
+    "name": "E 523 Aluminium Ammonium Sulphate"
+  },
+  {
+    "level": 3,
+    "type": "Sweetener",
+    "name": "Agave"
+  },
+  {
+    "level": 2,
+    "type": "Sweetener",
+    "name": "Honey"
+  },
+  {
+    "level": 2,
+    "type": "Sweetener",
+    "name": "Molasses"
+  },
+  {
+    "level": 1,
+    "type": "Sweetener",
+    "name": "Stevia"
+  },
+  {
+    "level": 2,
+    "type": "Sweetener",
+    "name": "Sugar (cane)"
+  },
+  {
+    "level": 1,
+    "type": "Sweetener",
+    "name": "E 420 Sorbit, Sorbit Syrup"
+  },
+  {
+    "level": 3,
+    "type": "Sweetener",
+    "name": "E 951 Aspartame K"
+  },
+  {
+    "level": 2,
+    "type": "Sweetener",
+    "name": "E 952 Cyclamate"
+  },
+  {
+    "level": 1,
+    "type": "Sweetener",
+    "name": "E 953 Isomalt"
+  },
+  {
+    "level": 3,
+    "type": "Sweetener",
+    "name": "E 954 Saccharin"
+  },
+  {
+    "level": 2,
+    "type": "Sweetener",
+    "name": "E 957 Thaumatin"
+  },
+  {
+    "level": 2,
+    "type": "Sweetener",
+    "name": "E 965 Maltite, Maltite Syrup"
+  },
+  {
+    "level": 2,
+    "type": "Sweetener",
+    "name": "E 967 Xylitol"
+  },
+  {
+    "level": 1,
+    "type": "Thickening Agent",
+    "name": "E 352 Calcium Malate"
+  },
+  {
+    "level": 2,
+    "type": "Thickening Agent",
+    "name": "E 401 Sodium Alginate"
+  },
+  {
+    "level": 3,
+    "type": "Thickening Agent",
+    "name": "E 405 Propylene Glycol Alginate"
+  },
+  {
+    "level": 2,
+    "type": "Thickening Agent",
+    "name": "E 406 Agar"
+  },
+  {
+    "level": 1,
+    "type": "Thickening Agent",
+    "name": "E 412 Guar Gum"
+  },
+  {
+    "level": 1,
+    "type": "Thickening Agent",
+    "name": "E 412 Guar Arabic"
+  },
+  {
+    "level": 2,
+    "type": "Thickening Agent",
+    "name": "E 415 Xanthan Gum"
+  },
+  {
+    "level": 1,
+    "type": "Thickening Agent",
+    "name": "E 416 Karaya Gum"
+  },
+  {
+    "level": 2,
+    "type": "Thickening Agent",
+    "name": "E 417 Tara Meal"
+  },
+  {
+    "level": 1,
+    "type": "Thickening Agent",
+    "name": "E 418 Gellane"
+  },
+  {
+    "level": 1,
+    "type": "Thickening Agent",
+    "name": "E 440 Pectin, Amidated Pectin"
+  },
+  {
+    "level": 2,
+    "type": "Thickening Agent",
+    "name": "E 461 Methylcellulose"
+  },
+  {
+    "level": 2,
+    "type": "Thickening Agent",
+    "name": "E 463 Hydroxypropyl Cellulose"
+  },
+  {
+    "level": 3,
+    "type": "Thickening Agent",
+    "name": "E 464 Hydroxypropyl Methylcellulose"
+  },
+  {
+    "level": 1,
+    "type": "Thickening Agent",
+    "name": "E 465 Ethyl Methylcellulose"
+  },
+  {
+    "level": 3,
+    "type": "Thickening Agent",
+    "name": "E 466 Carboxymethyl Cellulose"
+  },
+  {
+    "level": 3,
+    "type": "Vegetable",
+    "name": "Asaparagus"
+  },
+  {
+    "level": 2,
+    "type": "Vegetable",
+    "name": "Aubergine (eggplant)"
+  },
+  {
+    "level": 3,
+    "type": "Vegetable",
+    "name": "Beans (chickpea)"
+  },
+  {
+    "level": 1,
+    "type": "Vegetable",
+    "name": "Beans (lima)"
+  },
+  {
+    "level": 3,
+    "type": "Vegetable",
+    "name": "Beans (pinto)"
+  },
+  {
+    "level": 2,
+    "type": "Vegetable",
+    "name": "Beans (red kidney)"
+  },
+  {
+    "level": 1,
+    "type": "Vegetable",
+    "name": "Beets"
+  },
+  {
+    "level": 1,
+    "type": "Vegetable",
+    "name": "Bell Peppers (green) (cooked)"
+  },
+  {
+    "level": 2,
+    "type": "Vegetable",
+    "name": "Bell Peppers (orange) (cooked)"
+  },
+  {
+    "level": 2,
+    "type": "Vegetable",
+    "name": "Bell Peppers (orange) (raw)"
+  },
+  {
+    "level": 1,
+    "type": "Vegetable",
+    "name": "Bell Peppers (red) (cooked)"
+  },
+  {
+    "level": 1,
+    "type": "Vegetable",
+    "name": "Bell Peppers (yellow) (cooked)"
+  },
+  {
+    "level": 1,
+    "type": "Vegetable",
+    "name": "Bok Choy"
+  },
+  {
+    "level": 3,
+    "type": "Vegetable",
+    "name": "Broccoli (cooked)"
+  },
+  {
+    "level": 3,
+    "type": "Vegetable",
+    "name": "Cabbage (red) (raw)"
+  },
+  {
+    "level": 3,
+    "type": "Vegetable",
+    "name": "Cabbage (white) (cooked)"
+  },
+  {
+    "level": 2,
+    "type": "Vegetable",
+    "name": "Cabbage (white) (raw)"
+  },
+  {
+    "level": 3,
+    "type": "Vegetable",
+    "name": "Carrots (raw)"
+  },
+  {
+    "level": 2,
+    "type": "Vegetable",
+    "name": "Cauliflower (raw)"
+  },
+  {
+    "level": 1,
+    "type": "Vegetable",
+    "name": "Cucumber"
+  },
+  {
+    "level": 2,
+    "type": "Vegetable",
+    "name": "Endive"
+  },
+  {
+    "level": 1,
+    "type": "Vegetable",
+    "name": "Garlic (cooked)"
+  },
+  {
+    "level": 2,
+    "type": "Vegetable",
+    "name": "Garlic (raw)"
+  },
+  {
+    "level": 2,
+    "type": "Vegetable",
+    "name": "Greens (collard)"
+  },
+  {
+    "level": 1,
+    "type": "Vegetable",
+    "name": "Greens (mustard)"
+  },
+  {
+    "level": 1,
+    "type": "Vegetable",
+    "name": "Kale (cooked)"
+  },
+  {
+    "level": 1,
+    "type": "Vegetable",
+    "name": "Lettuce (butter)"
+  },
+  {
+    "level": 3,
+    "type": "Vegetable",
+    "name": "Lettuce (escarole)"
+  },
+  {
+    "level": 2,
+    "type": "Vegetable",
+    "name": "Lettuce (iceberg)"
+  },
+  {
+    "level": 2,
+    "type": "Vegetable",
+    "name": "Lettuce (red leaf)"
+  },
+  {
+    "level": 3,
+    "type": "Vegetable",
+    "name": "Mushroom (button)"
+  },
+  {
+    "level": 1,
+    "type": "Vegetable",
+    "name": "Mushroom (chestnut)"
+  },
+  {
+    "level": 1,
+    "type": "Vegetable",
+    "name": "Mushroom (oyster)"
+  },
+  {
+    "level": 3,
+    "type": "Vegetable",
+    "name": "Mushroom (portabella)"
+  },
+  {
+    "level": 3,
+    "type": "Vegetable",
+    "name": "Onions (raw)"
+  },
+  {
+    "level": 3,
+    "type": "Vegetable",
+    "name": "Onions (scallions)"
+  },
+  {
+    "level": 1,
+    "type": "Vegetable",
+    "name": "Peas (field)"
+  },
+  {
+    "level": 2,
+    "type": "Vegetable",
+    "name": "Pepper (banana)"
+  },
+  {
+    "level": 2,
+    "type": "Vegetable",
+    "name": "Pepper (cherry)"
+  },
+  {
+    "level": 2,
+    "type": "Vegetable",
+    "name": "Pepper (habanero)"
+  },
+  {
+    "level": 2,
+    "type": "Vegetable",
+    "name": "Pepper (jalapeno)"
+  },
+  {
+    "level": 3,
+    "type": "Vegetable",
+    "name": "Pepper (poblano)"
+  },
+  {
+    "level": 3,
+    "type": "Vegetable",
+    "name": "Pickle (bread & butter)"
+  },
+  {
+    "level": 2,
+    "type": "Vegetable",
+    "name": "Pepper (dill)"
+  },
+  {
+    "level": 3,
+    "type": "Vegetable",
+    "name": "Potatoes (yellow)"
+  },
+  {
+    "level": 3,
+    "type": "Vegetable",
+    "name": "Pumpkin"
+  },
+  {
+    "level": 2,
+    "type": "Vegetable",
+    "name": "Pumpkin Seed"
+  },
+  {
+    "level": 3,
+    "type": "Vegetable",
+    "name": "Radicchio"
+  },
+  {
+    "level": 2,
+    "type": "Vegetable",
+    "name": "Rhubarb"
+  },
+  {
+    "level": 1,
+    "type": "Vegetable",
+    "name": "Sauerkraut"
+  },
+  {
+    "level": 3,
+    "type": "Vegetable",
+    "name": "Spinach (cooked)"
+  },
+  {
+    "level": 1,
+    "type": "Vegetable",
+    "name": "Spinach (raw)"
+  },
+  {
+    "level": 3,
+    "type": "Vegetable",
+    "name": "Squash (butternut)"
+  },
+  {
+    "level": 1,
+    "type": "Vegetable",
+    "name": "Squash (spaghetti)"
+  },
+  {
+    "level": 2,
+    "type": "Vegetable",
+    "name": "Squash (yellow)"
+  },
+  {
+    "level": 3,
+    "type": "Vegetable",
+    "name": "Squash (zucchini)"
+  },
+  {
+    "level": 1,
+    "type": "Vegetable",
+    "name": "Yuca (cassava)"
+  }
+]
