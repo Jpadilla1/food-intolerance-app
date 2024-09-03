@@ -1,6 +1,7 @@
 import IntoleranceList from "@/packages/intolerance-list/components/List";
 import intoleranceJSON from "@/raw-data/intolerance-data.json";
 import { FiveStrandIntolerance } from "@/shared/types/FiveStrands";
+import { Viewport } from "next";
 
 export default function Home() {
   return (
@@ -13,3 +14,10 @@ export default function Home() {
     </main>
   );
 }
+
+export const viewport: Viewport = {
+  initialScale: 1,
+  width: "device-width",
+  maximumScale: 1,
+  viewportFit: "cover",
+};
