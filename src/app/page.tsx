@@ -4,8 +4,9 @@ import { FiveStrandIntolerance } from "@/shared/types/FiveStrands";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center p-12">
-      <h2 className="text-4xl font-bold text-center mb-4">Intolerance app</h2>
+    <main className="flex min-h-screen flex-col items-center pt-8 pl-4 pr-4 pb-12">
+      <h1 className="text-3xl font-bold text-center mb-4">Food Intolerances</h1>
+      <div className="w-full border-b border-divider mb-4" />
       <IntoleranceList
         intolerances={intoleranceJSON as FiveStrandIntolerance[]}
       />
