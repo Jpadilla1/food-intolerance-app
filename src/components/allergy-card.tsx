@@ -34,7 +34,7 @@ const levelColors: Record<AllergyLevel, string> = {
 
 export function AllergyCard({ name, level }: Props) {
   return (
-    <Card className="w-full max-w-sm p-6 bg-card text-card-foreground">
+    <Card className="w-full p-6 bg-card text-card-foreground">
       <div className="flex items-center gap-4">
         <div className="flex-1">
           <div className="text-muted-foreground">{name}</div>

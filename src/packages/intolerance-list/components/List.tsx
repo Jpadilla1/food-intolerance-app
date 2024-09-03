@@ -36,7 +36,7 @@ const IntoleranceList = ({ intolerances }: Props) => {
   }, [category, search, intolerances]);
 
   return (
-    <div className="flex flex-col w-full">
+    <div className="flex flex-col w-full max-w-md">
       <div className="flex items-center">
         <h3 className="text-2l font-bold">Category:</h3>
         <div className="w-4" />
